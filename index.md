@@ -8,7 +8,7 @@ During my internship at D.E. Shaw, I worked extensively with infrastructure code
 
 ## Academics
 
-I have taken the below courses as part of my coursework at IIIT Hyderabad. Each of the courses brought a greate learning experience.
+I have taken the below courses as part of my coursework at IIIT Hyderabad. Each of the courses brought a great learning experience.
 
 - Compilers
 - Automata Theory
@@ -19,5 +19,6 @@ I have taken the below courses as part of my coursework at IIIT Hyderabad. Each 
 - Software Engineering
 - Principles of Programming Languages	
 - Topics in Deep Learning
+- Data Analytics
 - Data Structures and Algorithm 
 - Algorithm Analysis and Design
