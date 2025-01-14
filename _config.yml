@@ -4,7 +4,7 @@ description: "Algorithms,Systems and Machine Learning" # This will show up in pl
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "zaidcoder@mail.com"
+email: "zaidcoder@gmail.com"
 github_username: "zetapii"
 linkedin_username: "mohammad-zaid-8a0a5921a"
 #facebook_username: username
@@ -25,9 +25,9 @@ kramdown:
   syntax_highlighter_opts:
     disable: true
     
-plugins:
+# plugins:
   # - jekyll-feed
-  - jekyll-sitemap
+  # - jekyll-sitemap
 
 titles_from_headings:
   strip_title: true
