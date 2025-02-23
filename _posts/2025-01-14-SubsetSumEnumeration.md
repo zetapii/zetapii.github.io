@@ -26,7 +26,12 @@ To systematically enumerate subsets, we define a **lexicographical ordering** on
 
 Consider the set S = {1,2,3,4,5} and its subsets:  
 
-$$ A = \lbrace 1,3 \rbrace, B = \lbrace 1,4 \rbrace, C = \lbrace 2,3 \rbrace \$$
+{% raw %}
+
+$$ A = \{1,3\}, B = \{1,4\}, C = \{2,3\} $$
+<!-- $$ A = \lbrace 1,3 \rbrace, B = \lbrace 1,4 \rbrace, C = \lbrace 2,3 \rbrace \$$ -->
+
+{% endraw %}
 
 - A is lexicographically smaller than B because they first differ at index 2, where 3 < 4.  
 - B is lexicographically smaller than C because they first differ at index 1, where 1 < 2.
