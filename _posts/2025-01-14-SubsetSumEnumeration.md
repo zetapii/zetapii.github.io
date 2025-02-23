@@ -4,7 +4,7 @@ Given a set of integers S and a target sum T, the goal is to determine whether t
 
 An intriguing variation of this problem is not just to check for existence of such a subset but to enumerate all possible subsets whose sum is exactly T.
 
-We will focus our discussion on the set of the first N natural numbers. Therefore, our set $S_n$ will consist of the integers from 1 to n, represented as:  
+We will focus our discussion on the set of the first N natural numbers. Therefore, our set \( S_n \) will consist of the integers from 1 to n, represented as:  
 
 $$ S_n  = \lbrace 1, 2, 3, ... , n \rbrace $$
 
@@ -26,12 +26,7 @@ To systematically enumerate subsets, we define a **lexicographical ordering** on
 
 Consider the set S = {1,2,3,4,5} and its subsets:  
 
-{% raw %}
-
 $$ A = \lbrace 1,3 \rbrace, B = \lbrace 1,4 \rbrace, C = \lbrace 2,3 \rbrace $$
-<!-- $$ A = \lbrace 1,3 \rbrace, B = \lbrace 1,4 \rbrace, C = \lbrace 2,3 \rbrace \$$ -->
-
-{% endraw %}
 
 - A is lexicographically smaller than B because they first differ at index 2, where 3 < 4.  
 - B is lexicographically smaller than C because they first differ at index 1, where 1 < 2.
