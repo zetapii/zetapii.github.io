@@ -28,7 +28,7 @@ Consider the set S = {1,2,3,4,5} and its subsets:
 
 {% raw %}
 
-$$ A = \{1,3\}, B = \{1,4\}, C = \{2,3\} $$
+$$ A = \lbrace 1,3 \rbrace, B = \lbrace 1,4 \rbrace, C = \lbrace 2,3 \rbrace $$
 <!-- $$ A = \lbrace 1,3 \rbrace, B = \lbrace 1,4 \rbrace, C = \lbrace 2,3 \rbrace \$$ -->
 
 {% endraw %}
